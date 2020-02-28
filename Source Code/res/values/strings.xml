@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Design Patterns</string>
+    <string name="light">Light</string>
+    <string name="proximity">Proximity</string>
+    <string name="pressure">Pressure</string>
+    <string name="position">Position</string>
+    <string name="compass">Compass</string>
+    <string name="status">Status</string>
+    <string name="developers">Name</string>
+    <string name="my_name">Itzhak Sheratzky and Liad Ben Rahamim</string>
+    <string name="current_status">In Progress</string>
+    <string name="last_update">Last Update</string>
+    <string name="close">Close</string>
+</resources>
